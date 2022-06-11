@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+html {
+    background:url('http://www.ultradrive.com/images/rdx_starfield.jpg');
+}
+
+header {
+    padding: 1.875em 0;
+    background-color: rgba(218, 211, 211, 0.067) ;
+    text-align: center;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 1em;
+    color: blanchedalmond;
+}
+
+body {
+    font-family:'Franklin Gothic Book',sans-serif;
+    color:#E6CA3A;
+    width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+
+p{
+    padding: 1.25em;
+    text-align: justify; 
+    margin: 1.875em; 
+}
+
+main {
+    background-color: rgba(177, 173, 147, 0.135) ; 
+
+}
+
